@@ -1,0 +1,1 @@
+This is one more in depth than css-grid-responsive project
